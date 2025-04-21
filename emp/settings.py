@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-xjfram%ea498r$bj1*@skegf*)*f$8&wmirv516+kjm3ghv7n3
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['emprender-a3ir.onrender.com','localhost','127.0.0.1']
+ALLOWED_HOSTS = ['emprender-a3ir.onrender.com','localhost','127.0.0.1','127.0.0.1:5500']
 
 
 # Application definition
